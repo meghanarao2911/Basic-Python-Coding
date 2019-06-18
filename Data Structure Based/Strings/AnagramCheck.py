@@ -1,7 +1,7 @@
 #proogram to check if the strings are anagrams of each other
 
 str1="FEEL"
-str2="EEF"
+str2="EF"
 
 s1=[]
 s2=[]
